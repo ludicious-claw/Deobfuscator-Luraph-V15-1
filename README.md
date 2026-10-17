@@ -1,4 +1,4 @@
-# Luraph v15 Deobfuscator
+# Luraph v15-v15.1 Deobfuscator
 # Thanks to the caomod2077, _xerax., deepseek v4.1 flash, opus 5.5
 [![CI](https://github.com/Aditya-lua/Deobfuscator-Luraph-V15/actions/workflows/ci.yml/badge.svg)](https://github.com/Aditya-lua/Deobfuscator-Luraph-V15/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
